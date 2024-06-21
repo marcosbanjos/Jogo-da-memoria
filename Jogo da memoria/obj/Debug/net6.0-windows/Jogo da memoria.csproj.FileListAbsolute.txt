@@ -1,0 +1,38 @@
+C:\Users\Marcos\Desktop\Jogo da memoria\Jogo da memoria\bin\Debug\net6.0-windows\Jogo da memoria.exe
+C:\Users\Marcos\Desktop\Jogo da memoria\Jogo da memoria\bin\Debug\net6.0-windows\Jogo da memoria.deps.json
+C:\Users\Marcos\Desktop\Jogo da memoria\Jogo da memoria\bin\Debug\net6.0-windows\Jogo da memoria.runtimeconfig.json
+C:\Users\Marcos\Desktop\Jogo da memoria\Jogo da memoria\bin\Debug\net6.0-windows\Jogo da memoria.dll
+C:\Users\Marcos\Desktop\Jogo da memoria\Jogo da memoria\bin\Debug\net6.0-windows\Jogo da memoria.pdb
+C:\Users\Marcos\Desktop\Jogo da memoria\Jogo da memoria\obj\Debug\net6.0-windows\Jogo da memoria.csproj.AssemblyReference.cache
+C:\Users\Marcos\Desktop\Jogo da memoria\Jogo da memoria\obj\Debug\net6.0-windows\Jogo_da_memoria.Form1.resources
+C:\Users\Marcos\Desktop\Jogo da memoria\Jogo da memoria\obj\Debug\net6.0-windows\Jogo_da_memoria.Form2.resources
+C:\Users\Marcos\Desktop\Jogo da memoria\Jogo da memoria\obj\Debug\net6.0-windows\Jogo_da_memoria.Properties.Resources.resources
+C:\Users\Marcos\Desktop\Jogo da memoria\Jogo da memoria\obj\Debug\net6.0-windows\Jogo da memoria.csproj.GenerateResource.cache
+C:\Users\Marcos\Desktop\Jogo da memoria\Jogo da memoria\obj\Debug\net6.0-windows\Jogo da memoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\Jogo da memoria\Jogo da memoria\obj\Debug\net6.0-windows\Jogo da memoria.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\Jogo da memoria\Jogo da memoria\obj\Debug\net6.0-windows\Jogo da memoria.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\Jogo da memoria\Jogo da memoria\obj\Debug\net6.0-windows\Jogo da memoria.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\Jogo da memoria\Jogo da memoria\obj\Debug\net6.0-windows\Jogo da memoria.dll
+C:\Users\Marcos\Desktop\Jogo da memoria\Jogo da memoria\obj\Debug\net6.0-windows\refint\Jogo da memoria.dll
+C:\Users\Marcos\Desktop\Jogo da memoria\Jogo da memoria\obj\Debug\net6.0-windows\Jogo da memoria.pdb
+C:\Users\Marcos\Desktop\Jogo da memoria\Jogo da memoria\obj\Debug\net6.0-windows\Jogo da memoria.genruntimeconfig.cache
+C:\Users\Marcos\Desktop\Jogo da memoria\Jogo da memoria\obj\Debug\net6.0-windows\ref\Jogo da memoria.dll
+F:\Jogo da memoria\Jogo da memoria\bin\Debug\net6.0-windows\Jogo da memoria.exe
+F:\Jogo da memoria\Jogo da memoria\bin\Debug\net6.0-windows\Jogo da memoria.deps.json
+F:\Jogo da memoria\Jogo da memoria\bin\Debug\net6.0-windows\Jogo da memoria.runtimeconfig.json
+F:\Jogo da memoria\Jogo da memoria\bin\Debug\net6.0-windows\Jogo da memoria.dll
+F:\Jogo da memoria\Jogo da memoria\bin\Debug\net6.0-windows\Jogo da memoria.pdb
+F:\Jogo da memoria\Jogo da memoria\obj\Debug\net6.0-windows\Jogo da memoria.csproj.AssemblyReference.cache
+F:\Jogo da memoria\Jogo da memoria\obj\Debug\net6.0-windows\Jogo_da_memoria.Form1.resources
+F:\Jogo da memoria\Jogo da memoria\obj\Debug\net6.0-windows\Jogo_da_memoria.Form2.resources
+F:\Jogo da memoria\Jogo da memoria\obj\Debug\net6.0-windows\Jogo_da_memoria.Properties.Resources.resources
+F:\Jogo da memoria\Jogo da memoria\obj\Debug\net6.0-windows\Jogo da memoria.csproj.GenerateResource.cache
+F:\Jogo da memoria\Jogo da memoria\obj\Debug\net6.0-windows\Jogo da memoria.GeneratedMSBuildEditorConfig.editorconfig
+F:\Jogo da memoria\Jogo da memoria\obj\Debug\net6.0-windows\Jogo da memoria.AssemblyInfoInputs.cache
+F:\Jogo da memoria\Jogo da memoria\obj\Debug\net6.0-windows\Jogo da memoria.AssemblyInfo.cs
+F:\Jogo da memoria\Jogo da memoria\obj\Debug\net6.0-windows\Jogo da memoria.csproj.CoreCompileInputs.cache
+F:\Jogo da memoria\Jogo da memoria\obj\Debug\net6.0-windows\Jogo da memoria.dll
+F:\Jogo da memoria\Jogo da memoria\obj\Debug\net6.0-windows\refint\Jogo da memoria.dll
+F:\Jogo da memoria\Jogo da memoria\obj\Debug\net6.0-windows\Jogo da memoria.pdb
+F:\Jogo da memoria\Jogo da memoria\obj\Debug\net6.0-windows\Jogo da memoria.genruntimeconfig.cache
+F:\Jogo da memoria\Jogo da memoria\obj\Debug\net6.0-windows\ref\Jogo da memoria.dll
